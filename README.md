@@ -1,4 +1,8 @@
+
 # Node & Express Demo App for Azure DevOps
+
+#Status
+[![Build Status](https://dev.azure.com/bryancasugu/TallerCuatro/_apis/build/status/bryancasugu.node-express-azure?branchName=master)](https://dev.azure.com/bryancasugu/TallerCuatro/_build/latest?definitionId=1&branchName=master)
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
 
